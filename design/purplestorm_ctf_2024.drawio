@@ -1,0 +1,307 @@
+<mxfile host="app.diagrams.net" modified="2024-01-06T18:54:49.067Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="beC-nn4SOsUmzFMYG9gY" version="22.1.17" type="device">
+  <diagram name="Page-1" id="tyVGIIWvJrZHWSKOiUFS">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.server_rack;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.server_rack;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="550" y="130" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.tablet;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="486.25" width="50" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.html5" parent="1" vertex="1">
+          <mxGeometry x="155" y="480" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#B9E0A5;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="480" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.wordpress_2;fillColor=#00A7DA;strokeColor=none" parent="1" vertex="1">
+          <mxGeometry x="330.6" y="480" width="49.4" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="_qAsq6-hMmeQSuLTDgdS-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="402" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="_qAsq6-hMmeQSuLTDgdS-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="402" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="_qAsq6-hMmeQSuLTDgdS-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="402" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-128.png" parent="1" vertex="1">
+          <mxGeometry x="523.5" y="473.5" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-18" value="&lt;div&gt;AMOGESUS - CODESUS Industries&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="182.5" y="190" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-21" value="ShadowWizardMoneyGang C2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="497.5" y="100" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-22" value="amogesus.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="145" y="536.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-23" value="git.amogesus.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="235" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-24" value="blog.amogesus.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325" y="536.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-25" value="Public repository with credentials for the blog in library_scanner.c dev branch." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="227.5" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-26" value="&lt;div&gt;Login as admin with earlier found credentials to execute php reverse shell.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="400" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#CC99FF;strokeWidth=3;entryX=1.057;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-26" target="_qAsq6-hMmeQSuLTDgdS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="507.25" y="356.25" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CC99FF;strokeWidth=3;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-25" target="_qAsq6-hMmeQSuLTDgdS-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="660" as="sourcePoint" />
+            <mxPoint x="345" y="777" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="640" />
+              <mxPoint x="420" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.145;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#CC99FF;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247" y="523.75" as="sourcePoint" />
+            <mxPoint x="220" y="641" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="640.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-34" value="Get a shell as www-data via template twenty-twenty 404.php page file" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-35" value="PrivEsc to codesus user via dns.sh script" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=-0.086;exitY=0.263;exitDx=0;exitDy=0;strokeColor=#CC99FF;strokeWidth=3;entryX=1.057;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="306" y="352" as="sourcePoint" />
+            <mxPoint x="150" y="188" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-37" value="Find the ransomdropper binary in his home directory and extract the C2 credentials from there." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="205" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-38" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#CC99FF;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-35" target="_qAsq6-hMmeQSuLTDgdS-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="242" as="sourcePoint" />
+            <mxPoint x="134" y="78" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-39" value="&lt;div&gt;Login via SSH as gangoperator.&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-40" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.638;exitDx=0;exitDy=0;strokeColor=#CC99FF;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="170" as="sourcePoint" />
+            <mxPoint x="415" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#CC99FF;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-39" target="_qAsq6-hMmeQSuLTDgdS-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="241" as="sourcePoint" />
+            <mxPoint x="516" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-42" value="&lt;div&gt;Find information about Gitea instance.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="30" y="444" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-43" value="Invite code to Discord in new_operators.txt in /root" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="630" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#CC99FF;strokeWidth=3;exitPerimeter=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="220" as="sourcePoint" />
+            <mxPoint x="640" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-45" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#CC99FF;strokeWidth=3;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-43" target="_qAsq6-hMmeQSuLTDgdS-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="380" as="sourcePoint" />
+            <mxPoint x="675" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-46" value="Find backdoor link to root and amogesus server." style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="515" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-47" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF9999;strokeWidth=3;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619" y="485" as="sourcePoint" />
+            <mxPoint x="600" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-48" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF9999;strokeWidth=3;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="700" as="sourcePoint" />
+            <mxPoint x="220" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="740" />
+              <mxPoint x="-10" y="570" />
+              <mxPoint x="50" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-49" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#66FFB3;strokeWidth=3;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-2" target="_qAsq6-hMmeQSuLTDgdS-50" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="642.5" y="160" as="sourcePoint" />
+            <mxPoint x="697.5" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-50" value="tmux session with metasploit." style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="720" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#66FFB3;strokeWidth=3;" parent="1" source="_qAsq6-hMmeQSuLTDgdS-50" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="270" as="sourcePoint" />
+            <mxPoint x="740" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-52" value="Get the SUPER SECRET KEY via the dump_contact function in meterpreter" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="680" y="537" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-53" value="Dig deeper: DNS txt Record" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="85" y="557" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-54" value="Oh sint! You are in!: Hidden in PGP key of blog post" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="400" y="560" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-55" value="Codemagic: website source code commit history initial commit" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="220" y="413.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-56" value="SUS!: flag.txt in home directory" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="20" y="180" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-57" value="We love droppin&#39; shells: flag.txt in home directory" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="480" y="220" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-58" value="A fine addition: flag in open text editor on homescreen" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="695" y="640" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-59" value="Fancy C2 generation: flag in a channel on Discord" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="510" y="384" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-60" value="The fall of the kingdom: flag.txt in /root" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-63" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#CC99FF;shape=mxgraph.azure.website_generic;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="360" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-64" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#CC99FF;shape=mxgraph.azure.website_generic;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="361" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_qAsq6-hMmeQSuLTDgdS-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#CC99FF;shape=mxgraph.azure.website_generic;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="361" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-1" value="Mr. Robot: robots.txt" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="402.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-2" value="Heavy lifting: flag in /root" style="shape=tape;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=#CC99FF;" parent="1" vertex="1">
+          <mxGeometry x="515" y="300" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-3" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;1.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="372.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-5" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;2.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="195" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-6" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;3.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="195" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-7" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;4.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="527" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-8" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;5.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-11" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;6.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="115" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-12" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;7.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-13" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;8.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-14" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;9.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-15" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;10.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="597" y="354" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-16" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;11.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="545" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="REDiHkwYBoOLprWKaHIg-17" value="&lt;b&gt;&lt;font color=&quot;#ff99ff&quot; style=&quot;font-size: 20px;&quot;&gt;12.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="115.5" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J7aSgFaVF7b1GKqX61by-1" value="Get root using gdb which has SUID bit set." style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="605" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
