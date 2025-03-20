@@ -29,7 +29,7 @@ If you need a jump host, you can use the credentials I send you a few days ago t
 
 If you have connection issues, use the following command:
 
-```c
+```console
 $ ssh -o PreferredAuthentications=password -o PubkeyAuthentication=no <USERNAME>@206.189.249.170
 ```
 
